@@ -41,3 +41,19 @@ body {
   word-spacing: 10px;
   line-height: 1.4;
 }
+.indent {
+  text-indent: 30px;
+}
+.direct {
+  text-align: right;
+  direction: rtl;
+}
+.text-shadow {
+  text-shadow: 3px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.box-shadow {
+  background-color: beige;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 5px 10px rgba(205, 5, 5, 0.2);
+}
